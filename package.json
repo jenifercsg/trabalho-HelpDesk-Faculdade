@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@creative-tim-official/argon-dashboard-free": "^1.2.0",
+    "dragula": "^3.7.3",
+    "jkanban": "^1.3.1",
+    "jquery-ui": "^1.13.2"
+  }
+}
